@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Manoj Kumar Achanta
+# Hi there! I'm Manoj Kumar Achanta
 
 🎓 **B.Tech IT Student | Web Developer | Aspiring DSA Pro**
 
@@ -6,7 +6,7 @@
 
 Welcome to my GitHub! I'm a third-year B.Tech student in Information Technology, building a solid foundation in full-stack development with the **MERN stack** and diving deep into **Data Structures and Algorithms (DSA)** with Java. Here’s a quick glimpse of what I’m working on and what you can find here:
 
-- 🌱 Currently learning: Linux, advanced DSA techniques, and building projects with **Flutter**.
+- 🌱 Currently learning: Linux, advanced DSA techniques, and building projects with MERN Stack.
 - 🚀 Developing real-world applications: My latest project is an app that connects users with local technicians in India.
 - 💡 Fun Fact: **I’m not saying I’m the best… but I haven’t been proven wrong yet!**
 - 📚 Preparing for campus interviews with a focus on **coding** and **communication skills**.
@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm a third-year B.Tech student in Information Technology,
 
 ### 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/manojkumarachanta) (add your LinkedIn URL)
+- LinkedIn: https://www.linkedin.com/in/manojkumarachanta
 - Email: manojkumarachanta9@gmail.com
 
 ---
