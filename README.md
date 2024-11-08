@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there! 👋 I'm Manoj Kumar Achanta
 
-<!--
-**ManojKumarAchanta/manojkumarachanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech IT Student | Web Developer | Aspiring DSA Pro**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub! I'm a third-year B.Tech student in Information Technology, building a solid foundation in full-stack development with the **MERN stack** and diving deep into **Data Structures and Algorithms (DSA)** with Java. Here’s a quick glimpse of what I’m working on and what you can find here:
+
+- 🌱 Currently learning: Linux, advanced DSA techniques, and building projects with **Flutter**.
+- 🚀 Developing real-world applications: My latest project is an app that connects users with local technicians in India.
+- 💡 Fun Fact: **I’m not saying I’m the best… but I haven’t been proven wrong yet!**
+- 📚 Preparing for campus interviews with a focus on **coding** and **communication skills**.
+
+---
+
+### 🛠️ My Tech Stack
+
+- **Frontend**: React, HTML, CSS, JavaScript
+- **Backend**: Node.js, Express.js, MongoDB
+- **Languages**: Java, Python, C
+- **Tools**: Linux, VS Code, Git
+
+### 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/manojkumarachanta) (add your LinkedIn URL)
+- Email: manojkumarachanta9@gmail.com
+
+---
+
+Thanks for stopping by! 😊 Feel free to explore my projects or reach out if you'd like to collaborate!
