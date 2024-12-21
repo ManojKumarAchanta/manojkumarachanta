@@ -1,6 +1,6 @@
 # Hi there! I'm Manoj Kumar Achanta
 
-🎓 **B.Tech IT Student | Web Developer | Aspiring DSA Pro**
+🎓 **B.Tech IT Student | Web Developer**
 
 ---
 
