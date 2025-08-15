@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a third-year B.Tech student in Information Technology,
 - 🌱 Currently learning: Linux, and building projects with MERN Stack.
 - 🚀 Developing real-world applications: My latest project is an chat app.
 - 💡 Fun Fact: **I’m not saying I’m the best… but I haven’t been proven wrong yet!**
-- 📚 Preparing for campus interviews with a focus on **coding**
+- 📚 Preparing for campus interviews and SDE roles at MAANG with a focus on **coding**
 
 ---
 
