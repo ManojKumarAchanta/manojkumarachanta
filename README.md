@@ -1,10 +1,10 @@
 # Hi there! I'm Manoj Kumar Achanta
 
-🎓 **B.Tech IT Student | Web Developer**
+🎓 **Full Stack Developer**
 
 ---
 
-Welcome to my GitHub! I'm a third-year B.Tech student in Information Technology, building a solid foundation in full-stack development with the **MERN stack** and diving deep into **Data Structures and Algorithms (DSA)** . Here’s a quick glimpse of what I’m working on and what you can find here:
+Welcome to my GitHub! I'm a final year B.Tech student in Information Technology, building a solid foundation in full-stack development with the **MERN stack** and diving deep into **Data Structures and Algorithms (DSA)** . Here’s a quick glimpse of what I’m working on and what you can find here:
 
 - 🌱 Currently learning: Linux, and building projects with MERN Stack.
 - 🚀 Developing real-world applications: My latest project is an chat app.
