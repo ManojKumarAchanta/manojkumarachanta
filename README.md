@@ -1,30 +1,32 @@
-# Hi there! I'm Manoj Kumar Achanta
+# 👋 Hi, I’m Manoj Kumar Achanta
 
-🎓 **Full Stack Developer**
-
----
-
-Welcome to my GitHub! I'm a final year B.Tech student in Information Technology, building a solid foundation in full-stack development with the **MERN stack** and diving deep into **Data Structures and Algorithms (DSA)** . Here’s a quick glimpse of what I’m working on and what you can find here:
-
-- 🌱 Currently learning: Linux, and building projects with MERN Stack.
-- 🚀 Developing real-world applications: My latest project is an chat app.
-- 💡 Fun Fact: **I’m not saying I’m the best… but I haven’t been proven wrong yet!**
-- 📚 Preparing for campus interviews and SDE roles at MAANG with a focus on **coding**
+🎓 **Software Engineer Intern @ DAZN**  
+💻 Final-year **B.Tech (Information Technology)** student focused on building scalable, production-ready web applications.
 
 ---
 
-### 🛠️ My Tech Stack
+Welcome to my GitHub. I work primarily on **full-stack systems**, with hands-on experience in **production environments**, clean architecture, and performance-focused UI development. I enjoy owning features end-to-end—from design to deployment—and understanding how real-world systems operate at scale.
 
-- **Frontend**: React, HTML, CSS, JavaScript
-- **Backend**: Node.js, Express.js, MongoDB
-- **Languages**: Java, Python, C
-- **Tools**: Linux, VS Code, Git
+### 🔍 Current Focus
+- Building and maintaining **production-grade web applications**
+- Strengthening foundations in **Data Structures & Algorithms**
+- Working with **React, TypeScript, Node.js**, and cloud-based workflows
+- Writing clean, maintainable, and scalable code
+
+---
+
+### 🛠️ Tech Stack
+- **Frontend:** React, HTML, CSS, JavaScript, TypeScript  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **Languages:** Java, Python, C  
+- **Tools:** Git, GitHub, Linux, VS Code  
+
+---
 
 ### 🌐 Connect with Me
-
-- LinkedIn: https://www.linkedin.com/in/manojkumarachanta
-- Email: manojkumarachanta9@gmail.com
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/manojkumarachanta  
+- 📧 **Email:** manojkumarachanta9@gmail.com  
 
 ---
 
-Thanks for stopping by! 😊 Feel free to explore my projects or reach out if you'd like to collaborate!
+I use this space to explore ideas, experiment with technologies, and document my learning through real-world code.
