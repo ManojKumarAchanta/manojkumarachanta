@@ -16,7 +16,7 @@ Welcome to my GitHub. I work primarily on **full-stack systems**, with hands-on 
 ---
 
 ### 🛠️ Tech Stack
-- **Frontend:** React, HTML, CSS, JavaScript, TypeScript  
+- **Frontend:** React, HTML, CSS, JavaScript, TypeScript, React Native
 - **Backend:** Node.js, Express.js, MongoDB  
 - **Languages:** Java, Python, C  
 - **Tools:** Git, GitHub, Linux, VS Code  
