@@ -3,15 +3,15 @@
 🎓 **Software Engineer Intern @ DAZN**  
 💻 Final-year **B.Tech (Information Technology)** student
 
-I’m a **full-stack developer** who enjoys building **production-ready web applications** and understanding how real systems behave at scale. I like owning features end-to-end — from design and implementation to deployment and iteration.
+I’m a **full-stack engineer** focused on building **production-ready web applications** and understanding how real-world systems behave at scale. I enjoy owning features end-to-end — from design and implementation to deployment and iteration.
 
-This GitHub is where I experiment, learn in public, and ship things that actually work.
+This GitHub is where I build in public, experiment with ideas, and ship things that actually work.
 
 ---
 
-## 🚀 What I’m Working On
+## 🚀 Current Focus
 - Developing and maintaining **production-grade web applications**
-- Strengthening **Data Structures & Algorithms** for long-term growth
+- Strengthening **Data Structures & Algorithms** for long-term engineering growth
 - Building with **React, TypeScript, Node.js**, and modern tooling
 - Writing **clean, maintainable, and scalable code**
 
@@ -36,11 +36,13 @@ This GitHub is where I experiment, learn in public, and ship things that actuall
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojkumarachanta&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojkumarachanta&show_icons=true&theme=tokyonight&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumarachanta&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=manojkumarachanta&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manojkumarachanta&theme=tokyonight)
+
+![Profile Views](https://komarev.com/ghpvc/?username=manojkumarachanta&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
@@ -50,4 +52,4 @@ This GitHub is where I experiment, learn in public, and ship things that actuall
 
 ---
 
-📌 *Always learning. Always building. Focused on long-term engineering growth.*
+📌 *Always learning. Always building. Focused on becoming a better engineer every day.*
