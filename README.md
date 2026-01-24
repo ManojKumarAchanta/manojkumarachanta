@@ -1,32 +1,53 @@
-#  Hi, I’m Manoj Kumar Achanta
+# 👋 Hi, I’m Manoj Kumar Achanta
 
 🎓 **Software Engineer Intern @ DAZN**  
-💻 Final-year **B.Tech (Information Technology)** student focused on building scalable, production-ready web applications.
+💻 Final-year **B.Tech (Information Technology)** student
+
+I’m a **full-stack developer** who enjoys building **production-ready web applications** and understanding how real systems behave at scale. I like owning features end-to-end — from design and implementation to deployment and iteration.
+
+This GitHub is where I experiment, learn in public, and ship things that actually work.
 
 ---
 
-Welcome to my GitHub. I work primarily on **full-stack systems**, with hands-on experience in **production environments**, clean architecture, and performance-focused UI development. I enjoy owning features end-to-end—from design to deployment—and understanding how real-world systems operate at scale.
-
-### 🔍 Current Focus
-- Building and maintaining **production-grade web applications**
-- Strengthening foundations in **Data Structures & Algorithms**
-- Working with **React, TypeScript, Node.js**, and cloud-based workflows
-- Writing clean, maintainable, and scalable code
+## 🚀 What I’m Working On
+- Developing and maintaining **production-grade web applications**
+- Strengthening **Data Structures & Algorithms** for long-term growth
+- Building with **React, TypeScript, Node.js**, and modern tooling
+- Writing **clean, maintainable, and scalable code**
 
 ---
 
-### 🛠️ Tech Stack
-- **Frontend:** React, HTML, CSS, JavaScript, TypeScript, React Native
-- **Backend:** Node.js, Express.js, MongoDB  
-- **Languages:** Java, Python, C  
-- **Tools:** Git, GitHub, Linux, VS Code  
+## 🛠 Tech Stack
+
+**Frontend**
+- React, TypeScript, JavaScript  
+- HTML, CSS, React Native  
+
+**Backend**
+- Node.js, Express.js, MongoDB  
+
+**Languages**
+- Java, Python, C  
+
+**Tools & Platforms**
+- Git, GitHub, Linux, VS Code  
 
 ---
 
-### 🌐 Connect with Me
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojkumarachanta&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumarachanta&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=manojkumarachanta&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/manojkumarachanta  
 - 📧 **Email:** manojkumarachanta9@gmail.com  
 
 ---
 
-I use this space to explore ideas, experiment with technologies, and document my learning through real-world code.
+📌 *Always learning. Always building. Focused on long-term engineering growth.*
