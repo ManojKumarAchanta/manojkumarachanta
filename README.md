@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Manoj Kumar Achanta
+#  Hi, I’m Manoj Kumar Achanta
 
 🎓 **Software Engineer Intern @ DAZN**  
 💻 Final-year **B.Tech (Information Technology)** student focused on building scalable, production-ready web applications.
