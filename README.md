@@ -40,7 +40,7 @@ This GitHub is where I build in public, experiment with ideas, and ship things t
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumarachanta&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manojkumarachanta&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=manojkumarachanta&label=Profile%20Views&color=0e75b6&style=flat)
 
