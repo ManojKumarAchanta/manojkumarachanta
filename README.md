@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Manoj Kumar Achanta
 
-🎓 **Software Engineer Intern @ DAZN**  
+🎓 **Software Engineer @ DAZN**  
 💻 Final-year **B.Tech (Information Technology)** student
 
 I’m a **full-stack engineer** focused on building **production-ready web applications** and understanding how real-world systems behave at scale. I enjoy owning features end-to-end — from design and implementation to deployment and iteration.
