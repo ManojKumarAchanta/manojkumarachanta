@@ -11,7 +11,7 @@ This GitHub is where I build in public, experiment with ideas, and ship things t
 ## 🚀 Current Focus
 - Developing and maintaining **production-grade web applications**
 - Strengthening **Data Structures & Algorithms** for long-term engineering growth
-- Building with **React, TypeScript, Node.js**, and modern tooling
+- Building with **React, TypeScript, Node.js**, **AWS** and modern tooling
 - Writing **clean, maintainable, and scalable code**
 
 ---
