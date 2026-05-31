@@ -33,16 +33,6 @@ This GitHub is where I build in public, experiment with ideas, and ship things t
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojkumarachanta&show_icons=true&theme=tokyonight&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumarachanta&layout=compact&theme=tokyonight)
-
-![Profile Views](https://komarev.com/ghpvc/?username=manojkumarachanta&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
 ## 🌐 Connect With Me
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/manojkumarachanta  
 - 📧 **Email:** manojkumarachanta9@gmail.com  
